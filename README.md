@@ -21,6 +21,7 @@ No longer use: VB, VBS, VBA, VB.NET, AutoIt, Reason, Haskell, C, Perl, Ruby, Sol
 
 - FP
 - OOP
+- SOLID
 - TDD & BDD
 - DDD
 - Minimalism *(I will delete any repositories or packages that I no longer need)*
