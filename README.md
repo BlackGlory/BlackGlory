@@ -1,10 +1,8 @@
-## Stats
-
-### Github [![Years Badge](https://badges.pufler.dev/years/BlackGlory)](https://badges.pufler.dev)
+## Github Stats
 ![](https://github.com/BlackGlory/github-stats/raw/master/generated/overview.svg)
 ![](https://github.com/BlackGlory/github-stats/raw/master/generated/languages.svg)
 
-## The principles, philosophies and methodology *I follow*
+## The Principles, Philosophies and Methodology *I follow*
 - [SOLID], [KISS], [YAGNI], [TDD], [DDD], [Microservices]
 - [Absurdism], [Stoicism]
 - [Deep Work], [Plaintext Productivity], [Minimalism] *(I will delete any repositories or packages that I no longer need)*
@@ -28,18 +26,20 @@
 
 - OS:
   - Windows 10 Pro for Workstations
-  - Ubuntu Server 20.04 LTS in Server and VMware Workstation Pro *I will **never** use WSL1/2 again*
+  - Ubuntu Server 20.04 LTS on servers and VMware Workstation Pro *(I will **never** use WSL1/2 again)*
 - CI/CD: Github Actions, [Drone]
+- DevOps: Docker, Ansible
 - Editor:
   - [Visual Studio Code] with [Remote SSH], [VSCodeVim]
-  - Vim with [vim-plug] in the terminal
-  - [Spacemacs] develop branch *only used for Org-Mode editing*
+  - Vim with [vim-plug] *in the terminal*
+  - [Spacemacs] develop branch *(only used for [Org-mode] editing)*
 - Font: [Fira Code]
 - Color theme: Monokai *since I first used Sublime Text*
 - Terminal: [Terminus] *because Windows Terminal is buggy*
 - Shell: [Oh My Zsh] + [tmux]
 - Browser: Chrome
 
+[Org-mode]: https://orgmode.org/
 [Drone]: https://github.com/drone/drone
 [vim-plug]: https://github.com/junegunn/vim-plug
 [Fira Code]: https://github.com/tonsky/FiraCode
