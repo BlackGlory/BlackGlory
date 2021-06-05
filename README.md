@@ -2,10 +2,11 @@
 ![](https://github.com/BlackGlory/github-stats/raw/master/generated/overview.svg)
 ![](https://github.com/BlackGlory/github-stats/raw/master/generated/languages.svg)
 
-## The Principles, Philosophies and Methodology *I follow*
-- [SOLID], [KISS], [YAGNI], [TDD], [DDD], [Microservices]
-- [Absurdism], [Stoicism]
-- [Deep Work], [Plaintext Productivity], [Minimalism] *(I will delete any repositories or packages that I no longer need)*
+## The Principles, Architectures, Philosophies and Methodology *I follow*
+- [SOLID], [KISS], [YAGNI], [TDD], [DDD]
+- [Microservices]
+- [Absurdism], [Stoicism], [Minimalism]
+- [Deep Work], [Plaintext Productivity] *(I will delete any repositories or packages that I no longer need)*
 
 [FP]: https://en.wikipedia.org/wiki/Functional_programming
 [OOP]: https://en.wikipedia.org/wiki/Object-oriented_programming
