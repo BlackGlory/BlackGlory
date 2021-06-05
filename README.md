@@ -30,6 +30,7 @@ No longer use: VB, VBS, VBA, VB.NET, AutoIt, Reason, Haskell, C, Perl, Ruby, Sol
 - Minimalism *(I will delete any repositories or packages that I no longer need)*
 - [Plaintext Productivity]
 - Absurdism
+- Deep Work
 
 [Plaintext Productivity]: http://plaintext-productivity.net/
 
