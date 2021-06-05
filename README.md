@@ -23,9 +23,10 @@ No longer use: VB, VBS, VBA, VB.NET, AutoIt, Reason, Haskell, C, Perl, Ruby, Sol
 - OOP
 - SOLID
 - KISS
-- YANGNI
+- YAGNI
 - TDD & BDD
 - DDD
+- Microservices
 - Minimalism *(I will delete any repositories or packages that I no longer need)*
 - [Plaintext Productivity]
 - Absurdism
