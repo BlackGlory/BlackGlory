@@ -4,6 +4,8 @@
 ![](https://github.com/BlackGlory/github-stats/raw/master/generated/overview.svg)
 ![](https://github.com/BlackGlory/github-stats/raw/master/generated/languages.svg)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=BlackGlory)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Stack Overflow
 [![BlackGlory Stack Overflow](https://github-readme-stackoverflow.vercel.app/?userID=5462167&layout=compact)](https://stackoverflow.com/users/5462167/blackglory)
 
