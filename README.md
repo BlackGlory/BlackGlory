@@ -2,8 +2,8 @@
 ![](https://github.com/BlackGlory/github-stats/raw/master/generated/overview.svg)
 ![](https://github.com/BlackGlory/github-stats/raw/master/generated/languages.svg)
 
-## The Principles, Architectures, Philosophies and Methodology *I follow*
-- [SOLID], [KISS], [YAGNI], [TDD], [DDD]
+## The Principles, Architectures, Philosophies and Methodologies *I follow*
+- [SOLID], [YAGNI], [KISS], [TDD], [DDD]
 - [Microservices]
 - [Absurdism], [Stoicism], [Minimalism]
 - [Deep Work], [Plaintext Productivity]
@@ -35,7 +35,7 @@
   - Vim + [vim-plug] *(only in the terminal)*
   - [Spacemacs] develop branch *(only used for [Org-mode] editing)*
 - Font: [Fira Code]
-- Color theme: Monokai
+- Color Theme: Monokai
 - Terminal: [Terminus]
 - Shell: [Oh My Zsh] + [tmux]
 - Browser: Chrome
