@@ -11,7 +11,7 @@
 
 *Ranking based on frequency of use*
 
-- Tier 1: TypeScript, JavaScript, Node.js, React, RxJS, Git, SQLite, PostgreSQL, Docker, Vim, Tailwind, Browser Extension, Web Crawler, Web Parser, Fastify, Caddy, Linux, Yarn, Jest, Rollup, Webpack, UI/UX Design
+- Tier 1: TypeScript, JavaScript, Node.js, React, RxJS, Git, SQLite, PostgreSQL, Docker, Vim, Tailwind, Browser Extension, Web Crawler, Web Parser, Fastify, Caddy, Linux, Yarn, Jest, Rollup, Webpack, UI/UX Design, CSS, HTML, Markdown, Org-Mode
 - Tier 2: Python, Bash, PowerShell, Web Components, MongoDB, Ansible, npm
 - Tier 3: Golang, Vue, Angular, C#, Java, Rust, Deno, Flutter, Redis, CouchDB, K8s, Emacs, Styled Components, Prometheus, AutoHotKey, Web Security Audit
 
