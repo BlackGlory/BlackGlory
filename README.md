@@ -9,11 +9,13 @@
 
 ## Full Stack *almost*
 
-- Tier 1: TypeScript, JavaScript, Node.js, React, RxJS, Bash, Git, SQLite, PostgreSQL, Docker, Vim
-- Tier 2: Python, Golang, Linux, PowerShell, UI/UX Design, Vue, Angular, Web Components, MongoDB, Ansible
-- Tier 3: C#, Java, Rust, Deno, Flutter, Redis, CouchDB, K8s, Emacs
+*Ranking based on frequency of use*
 
-No longer use: VB, VBS, VBA, VB.NET, Reason, C, Haskell, Perl, Ruby
+- Tier 1: TypeScript, JavaScript, Node.js, React, RxJS, Git, SQLite, PostgreSQL, Docker, Vim, Tailwind, Browser Extension, Web Crawler, Web Parser, Fastify, Caddy, Linux, Yarn, Jest, Rollup, Webpack, UI/UX Design
+- Tier 2: Python, Bash, PowerShell, Web Components, MongoDB, Ansible, npm
+- Tier 3: Golang, Vue, Angular, C#, Java, Rust, Deno, Flutter, Redis, CouchDB, K8s, Emacs, Styled Components, Prometheus, AutoHotKey, Web Security Audit
+
+No longer use: VB, VBS, VBA, VB.NET, AutoIt, Reason, Haskell, C, Perl, Ruby, Solidity, CoffeeScript, LiveScript, LESS, SASS/SCSS, Stylus, Grunt, Gulp, Ava, Express, Koa, pnpm, Neo4j, Nginx
 
 ## Philosophy *I followed*
 
@@ -41,25 +43,27 @@ No longer use: VB, VBS, VBA, VB.NET, Reason, C, Haskell, Perl, Ruby
 
 ### Editors
 - [Visual Studio Code] with [Remote SSH], [VSCodeVim]
-- Vim in the terminal
+- Vim with [vim-plug] in the terminal
 - [Spacemacs] develop branch (only used for Org-Mode editing)
 
+[vim-plug]: https://github.com/junegunn/vim-plug
+
 ### Font
-Fira Code
+- [Fira Code]
 
 [Fira Code]: https://github.com/tonsky/FiraCode
 
 ### Color theme
-Monokai
+- Monokai *since I first used Sublime Text*
 
 ### Terminal
 - [Terminus] (because Windows Terminal is buggy)
 - [Oh My Zsh]
-- Tmux
+- [Tmux]
 
+[Terminus]: https://github.com/Eugeny/terminus
 [Tmux]: https://github.com/tmux/tmux
 [Oh My Zsh]: https://github.com/ohmyzsh/ohmyzsh
-[Terminus]: https://github.com/Eugeny/terminus
 
 ### Browsers
 - Chrome
