@@ -2,14 +2,12 @@
 ![](https://github.com/BlackGlory/github-stats/raw/master/generated/overview.svg)
 ![](https://github.com/BlackGlory/github-stats/raw/master/generated/languages.svg)
 
-## The Principles, Architectures, Philosophies and Methodologies *I follow*
+## The Principles, Architectures, Philosophies and Methodologies *I mainly follow*
 - [SOLID], [YAGNI], [KISS], [TDD], [DDD]
 - [Microservices]
 - [Absurdism], [Stoicism], [Minimalism]
 - [Deep Work], [Plaintext Productivity]
 
-[FP]: https://en.wikipedia.org/wiki/Functional_programming
-[OOP]: https://en.wikipedia.org/wiki/Object-oriented_programming
 [SOLID]: https://en.wikipedia.org/wiki/SOLID
 [KISS]: https://en.wikipedia.org/wiki/KISS_principle
 [YAGNI]: https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
