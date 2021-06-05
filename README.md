@@ -5,8 +5,8 @@
 ## The Principles, Architectures, Philosophies and Methodology *I follow*
 - [SOLID], [KISS], [YAGNI], [TDD], [DDD]
 - [Microservices]
-- [Absurdism], [Stoicism], [Minimalism]
-- [Deep Work], [Plaintext Productivity] *(I will delete any repositories or packages that I no longer need)*
+- [Absurdism], [Stoicism], [Minimalism] *(I will delete any repositories or packages that I no longer need)*
+- [Deep Work], [Plaintext Productivity]
 
 [FP]: https://en.wikipedia.org/wiki/Functional_programming
 [OOP]: https://en.wikipedia.org/wiki/Object-oriented_programming
@@ -27,16 +27,16 @@
 
 - OS:
   - Windows 10 Pro for Workstations
-  - Ubuntu Server 20.04 LTS on servers and VMware Workstation Pro *(I will **never** use WSL1/2 again)*
+  - Ubuntu Server 20.04 LTS on Servers and VMware Workstation Pro *(I will **never** use WSL1/2 again)*
 - CI/CD: Github Actions, [Drone]
 - DevOps: Docker, Ansible
 - Editor:
-  - [Visual Studio Code] with [Remote SSH], [VSCodeVim]
-  - Vim with [vim-plug] *in the terminal*
+  - [Visual Studio Code] + [Remote SSH], [VSCodeVim]
+  - Vim + [vim-plug] *only in the terminal*
   - [Spacemacs] develop branch *(only used for [Org-mode] editing)*
 - Font: [Fira Code]
 - Color theme: Monokai *since I first used Sublime Text*
-- Terminal: [Terminus] *because Windows Terminal is buggy*
+- Terminal: [Terminus]
 - Shell: [Oh My Zsh] + [tmux]
 - Browser: Chrome
 
