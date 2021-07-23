@@ -28,6 +28,7 @@
   - Ubuntu Server 20.04 LTS on Servers and VMware Workstation Pro
 - CI/CD: Github Actions, [Drone]
 - DevOps: Docker, Ansible
+- UI/UX: Figma
 - Editor:
   - [Visual Studio Code] + [Remote SSH], [VSCodeVim]
   - Vim + [vim-plug] *(only in the terminal)*
