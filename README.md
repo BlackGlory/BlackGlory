@@ -4,7 +4,7 @@
 
 ## The Principles, Architectures, Philosophies and Methodologies I follow
 - [SOLID], [YAGNI], [KISS], [TDD], [DDD]
-- [Microservices]
+- [Microservices], [Twelve-Factor App]
 - [Absurdism], [Stoicism], [Minimalism]
 - [Deep Work], [Plaintext Productivity]
 
@@ -15,6 +15,7 @@
 [TDD]: https://en.wikipedia.org/wiki/Test-driven_development
 [Minimalism]: https://en.wikipedia.org/wiki/Minimalism
 [Microservices]: https://en.wikipedia.org/wiki/Microservices
+[Twelve-Factor App]: https://12factor.net/
 [Plaintext Productivity]: http://plaintext-productivity.net/
 [Absurdism]: https://en.wikipedia.org/wiki/Absurdism
 [Stoicism]: https://en.wikipedia.org/wiki/Stoicism
