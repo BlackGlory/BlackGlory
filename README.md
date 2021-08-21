@@ -26,20 +26,23 @@
 
 - OS:
   - Windows 10 Pro for Workstations
-  - Ubuntu Server 20.04 LTS on Servers and VMware Workstation Pro
+  - Ubuntu Server 20.04 LTS + [i3] on VMware Workstation Pro
 - CI/CD: Github Actions, [Drone]
 - DevOps: Docker, Ansible
 - UI/UX: Figma
 - Editor:
-  - [Visual Studio Code] + [Remote SSH], [VSCodeVim]
+  - [Visual Studio Code] + [VSCodeVim]
   - Vim + [vim-plug] *(only in the terminal)*
   - [Spacemacs] develop branch *(only used for [Org-mode] editing)*
 - Font: [Fira Code]
-- Color Theme: Monokai or [Nord](https://github.com/arcticicestudio/nord)
+- Color Theme: Monokai, [Nord], [Moonlight II]
 - Terminal: [Terminus]
 - Shell: [Oh My Zsh] + [tmux]
-- Browser: Chrome
+- Browser: Chrome, Firefox
 
+[Nord]: https://github.com/arcticicestudio/nord
+[Moonlight II]: https://github.com/atomiks/moonlight-vscode-theme
+[i3]: https://i3wm.org/
 [Org-mode]: https://orgmode.org/
 [Drone]: https://github.com/drone/drone
 [vim-plug]: https://github.com/junegunn/vim-plug
