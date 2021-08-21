@@ -34,7 +34,7 @@
   - [Spacemacs] develop branch *(only used for [Org-mode] editing)*
 - Font: [Fira Code]
 - Color Theme: Monokai, [Nord], [Moonlight II]
-- Terminal: [Terminus]
+- Terminal: [Tabby]
 - Shell: [Oh My Zsh] + [tmux]
 - Browser: Chrome, Firefox
 
@@ -45,7 +45,7 @@
 [Drone]: https://github.com/drone/drone
 [vim-plug]: https://github.com/junegunn/vim-plug
 [Fira Code]: https://github.com/tonsky/FiraCode
-[Terminus]: https://github.com/Eugeny/terminus
+[Tabby]: https://github.com/Eugeny/tabby
 [tmux]: https://github.com/tmux/tmux
 [Oh My Zsh]: https://github.com/ohmyzsh/ohmyzsh
 [Visual Studio Code]: https://code.visualstudio.com/
