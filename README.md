@@ -22,8 +22,6 @@
 [Deep Work]: https://www.goodreads.com/book/show/25744928-deep-work
 
 ## Development Environment
-> Not the best, but it's ok for me.
-
 - OS:
   - Windows 10 Pro for Workstations
   - Ubuntu Server 20.04 LTS + [i3] on VMware Workstation Pro
