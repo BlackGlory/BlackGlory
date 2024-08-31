@@ -1,7 +1,8 @@
 **As part of my minimalism,**
-**all projects that I consider no longer useful will be removed after post-mortem,**
-**even if they are well developed.**
-**If you are highly dependent on one of my repositories, it is recommended that you back it up manually.**
+**any projects I deem no longer useful will be removed after a post-mortem review.**
+**If you rely on one of my repositories,**
+**please consider giving it a star so I'm aware.**
+**Also, it's always a good idea to keep a copy of anything you need.**
 
 ## Stages of Projects
 - 🌱 A start-up or experimental project.
