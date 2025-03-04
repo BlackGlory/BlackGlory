@@ -10,4 +10,4 @@
 - 🌲 A developed project.
 - 🌳 A very developed project that is difficult to improve further.
 - 🍂 A project that is not actively maintained but still useful.
-- ⚰️ A dead project, preserved for commemorative purposes.
+- ⚰️ A completely dead project, preserved for commemorative purposes.
