@@ -10,7 +10,3 @@
 - 🌲 A developed project.
 - 🌳 A very developed project that is difficult to improve further.
 - 🍂 A project that is not actively maintained but still useful.
-
-## Github Stats
-![](https://github.com/BlackGlory/github-stats/raw/master/generated/overview.svg)
-![](https://github.com/BlackGlory/github-stats/raw/master/generated/languages.svg)
